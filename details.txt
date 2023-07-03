@@ -1,3 +1,14 @@
+--------------------------------------------------------------------
+Course Details
+--------------------------------------------------------------------
+Course Name : 100 Days Of Code - 2023 Web Development Bootcamp
+By : Academind
+Instructor : Maximilian Schwarzmuller, Manuel Lorenz
+
+
+--------------------------------------------------------------------
+Course Projects
+--------------------------------------------------------------------
 Project 1 : Monthly Challenges
 	Learn about HTML and CSS : Basic + Diving Deep
 
